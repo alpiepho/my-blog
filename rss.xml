@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jul 2019 19:06:53 GMT</lastBuildDate><item><title><![CDATA[HTML Handbook from Freecodecamp]]></title><description><![CDATA[Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”. link.]]></description><link>https://alpiepho.github.io/my-blog/html-handbook/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/html-handbook/</guid><pubDate>Tue, 30 Jul 2019 12:46:03 GMT</pubDate><content:encoded>&lt;p&gt;Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jul 2019 19:11:37 GMT</lastBuildDate><item><title><![CDATA[HTML Handbook from Freecodecamp]]></title><description><![CDATA[Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”. link.]]></description><link>https://alpiepho.github.io/my-blog/html-handbook/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/html-handbook/</guid><pubDate>Tue, 30 Jul 2019 12:46:03 GMT</pubDate><content:encoded>&lt;p&gt;Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/the-html-handbook/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -6,7 +6,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/static/b3bf874918789e9f70686e896b5073aa/5ca85/screenshot.png&quot;
+    href=&quot;/my-blog/static/b3bf874918789e9f70686e896b5073aa/5ca85/screenshot.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -19,11 +19,11 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;HTML Handbook&quot;
         title=&quot;HTML Handbook&quot;
-        src=&quot;/static/b3bf874918789e9f70686e896b5073aa/b9e4f/screenshot.png&quot;
-        srcset=&quot;/static/b3bf874918789e9f70686e896b5073aa/cf440/screenshot.png 148w,
-/static/b3bf874918789e9f70686e896b5073aa/d2d38/screenshot.png 295w,
-/static/b3bf874918789e9f70686e896b5073aa/b9e4f/screenshot.png 590w,
-/static/b3bf874918789e9f70686e896b5073aa/5ca85/screenshot.png 785w&quot;
+        src=&quot;/my-blog/static/b3bf874918789e9f70686e896b5073aa/b9e4f/screenshot.png&quot;
+        srcset=&quot;/my-blog/static/b3bf874918789e9f70686e896b5073aa/cf440/screenshot.png 148w,
+/my-blog/static/b3bf874918789e9f70686e896b5073aa/d2d38/screenshot.png 295w,
+/my-blog/static/b3bf874918789e9f70686e896b5073aa/b9e4f/screenshot.png 590w,
+/my-blog/static/b3bf874918789e9f70686e896b5073aa/5ca85/screenshot.png 785w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
       /&gt;
   &lt;/a&gt;
