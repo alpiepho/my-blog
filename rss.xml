@@ -1,2 +1,31 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jul 2019 13:01:46 GMT</lastBuildDate><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Turns out this Gatsby starter needs more than one blog entry or it will crash.]]></description><link>https://alpiepho.github.io/my-blog/new-beginnings/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/new-beginnings/</guid><pubDate>Tue, 30 Jul 2019 06:58:03 GMT</pubDate><content:encoded>&lt;p&gt;Turns out this Gatsby starter needs more than one blog entry or it will crash.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new blog… It took about an hour to stand this up in GitHub gh-pages using the React/Gatsby starter project.  So…]]></description><link>https://alpiepho.github.io/my-blog/hello-world/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/hello-world/</guid><pubDate>Tue, 30 Jul 2019 06:40:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new blog…&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jul 2019 19:02:15 GMT</lastBuildDate><item><title><![CDATA[HTML Handbook from Freecodecamp]]></title><description><![CDATA[Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”. link.]]></description><link>https://alpiepho.github.io/my-blog/html-handbook/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/html-handbook/</guid><pubDate>Tue, 30 Jul 2019 12:46:03 GMT</pubDate><content:encoded>&lt;p&gt;Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/the-html-handbook/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/b3bf874918789e9f70686e896b5073aa/5ca85/screenshot.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 70.19108280254777%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAYAAAAvxDzwAAAACXBIWXMAAAsSAAALEgHS3X78AAAB/0lEQVQ4y51SO4saYRSdPxHS2KSVwGYDSRPbQB6QIJiksUgnkbALSWlnY63gA9QNiojaWoiChSAuImSNZldjUvha8bG+EUVn5mS+m8wwZl1hc+HwzXfvdw/n3jPco1efIOPx6884fH6Euw/eSniHOwdvcO/Jexy+OMLBs494+PIY959+oDyr/3m3De7iSoAaFQnVISSI+DECfk6A8wGP2hh0v1Dqu8FhX4gb/Kp+x/m3ryifFXDVvZQLN7ZwgiBiF3hBoAft9iVyp6c4OfmCUrlMuQ0v4KY+UiiKIoEFz/P0rT4XiwVmsxnG47HUJBDkutyvKFTLFf6quk2oyRRCWQkLt9uNer2OYDCIQqEAm80Gq9VK90AgAJfLhUQiAafTifl8jn8nVAjX6zUlDAYDLBYLdDodqtUqHA4Hkfp8Pmg0Gmi1Wtjtduj1ekWEejKFcLPZUMJsNiOZTMJkMqFWqyEUCsHr9dLJyBk8Hg+MRiOi0ahkWnuL9Jop/X6fyAeDAVarFabTKZnBwMxh98lkQmvJ5/P0Xr1Lbt+C/8eYLYVyYTQa0ShMJVPS6XTQaDSQy+VIHfuFhsMhlsvlblPkpLyHVCoFv9+PeDyOdDpNrsZiMUQiERozk8kgHA4jm83uJ1TvsVQqodVqoVgsolKpkOput0uqm80mKe71etd6fwNbL+Pgl9jprgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;HTML Handbook&quot;
+        title=&quot;HTML Handbook&quot;
+        src=&quot;/static/b3bf874918789e9f70686e896b5073aa/b9e4f/screenshot.png&quot;
+        srcset=&quot;/static/b3bf874918789e9f70686e896b5073aa/cf440/screenshot.png 148w,
+/static/b3bf874918789e9f70686e896b5073aa/d2d38/screenshot.png 295w,
+/static/b3bf874918789e9f70686e896b5073aa/b9e4f/screenshot.png 590w,
+/static/b3bf874918789e9f70686e896b5073aa/5ca85/screenshot.png 785w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[New Beginnings]]></title><description><![CDATA[Turns out this Gatsby starter needs more than one blog entry or it will crash.]]></description><link>https://alpiepho.github.io/my-blog/new-beginnings/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/new-beginnings/</guid><pubDate>Tue, 30 Jul 2019 06:58:03 GMT</pubDate><content:encoded>&lt;p&gt;Turns out this Gatsby starter needs more than one blog entry or it will crash.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Hello World]]></title><description><![CDATA[This is my first post on my new blog… It took about an hour to stand this up in GitHub gh-pages using the React/Gatsby starter project.  So…]]></description><link>https://alpiepho.github.io/my-blog/hello-world/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/hello-world/</guid><pubDate>Tue, 30 Jul 2019 06:40:03 GMT</pubDate><content:encoded>&lt;p&gt;This is my first post on my new blog…&lt;/p&gt;
 &lt;p&gt;It took about an hour to stand this up in GitHub gh-pages using the React/Gatsby starter project.  So cool.&lt;/p&gt;</content:encoded></item></channel></rss>
