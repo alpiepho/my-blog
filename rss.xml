@@ -1,4 +1,30 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 30 Jul 2019 19:11:37 GMT</lastBuildDate><item><title><![CDATA[HTML Handbook from Freecodecamp]]></title><description><![CDATA[Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”. link.]]></description><link>https://alpiepho.github.io/my-blog/html-handbook/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/html-handbook/</guid><pubDate>Tue, 30 Jul 2019 12:46:03 GMT</pubDate><content:encoded>&lt;p&gt;Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Wed, 31 Jul 2019 12:25:01 GMT</lastBuildDate><item><title><![CDATA[How to add Blog Entry]]></title><description><![CDATA[This site was started using Gatsby.js, a framework for SSR (Server Side Rendering) of React.js projects.  Gatsby lets you create a new site…]]></description><link>https://alpiepho.github.io/my-blog/add-blog/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/add-blog/</guid><pubDate>Wed, 31 Jul 2019 11:53:52 GMT</pubDate><content:encoded>&lt;p&gt;This site was started using Gatsby.js, a framework for SSR (Server Side Rendering) of React.js projects.  Gatsby lets you create a new site from a ‘starter’ project hosted on GitHib.  &lt;/p&gt;
+&lt;p&gt;A collection of Gatsby starters can be found &lt;a href=&quot;https://www.gatsbyjs.org/starters/?v=2&quot;&gt;here&lt;/a&gt;.  The specific starter for this blog is &lt;a href=&quot;https://www.gatsbyjs.org/starters/gatsbyjs/gatsby-starter-blog/&quot;&gt;gatsby-starter-blog&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The gatsby-starter-blog is setup with a top-level directory called ‘contents’, and then the blogs are under ‘blog’ (makes sense).  Each blog entry is yet another subdirectory with an index.md file and any other image files etc.  For example, this is state of my blog as I create this blog entry:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;|____content
+| |____blog
+| | |____new-beginnings
+| | | |____index.md
+| | |____add-blog
+| | | |____index.md
+| | |____hello-world
+| | | |____index.md
+| | |____html-handbook
+| | | |____screenshot.png
+| | | |____index.md&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;To create add-blog I copied the last blog entry (html-handbook), removed the *.png file and started editing the new index.md.  Editing is straight forward, but the date string can be tricky.  I am on a Mac and used the following command line to generate a new string:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;Al$ date -u +&amp;quot;%Y-%m-%dT%H:%M:%SZ&amp;quot;
+2019-07-31T12:18:32Z&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;With those edits, I can run locally using:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;yarn start&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Deploy to GitHub using:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;yarn run deploy&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;And finally commit:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;git add -A
+git commit -m &amp;quot;adding blog about adding blog entry&amp;quot;
+git push&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;Then sit back and enjoy :smiley:  &lt;/p&gt;
+&lt;p&gt;(Bummer, I don’t think emojis work here.  Maybe that’s my next blog entry)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[HTML Handbook from Freecodecamp]]></title><description><![CDATA[Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”. link.]]></description><link>https://alpiepho.github.io/my-blog/html-handbook/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/html-handbook/</guid><pubDate>Tue, 30 Jul 2019 12:46:03 GMT</pubDate><content:encoded>&lt;p&gt;Even though I have studied HTML for several years, there were some great descriptions here, and more importantly, “Why”.&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;https://www.freecodecamp.org/news/the-html-handbook/&quot;&gt;link&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
