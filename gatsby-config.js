@@ -9,6 +9,7 @@ module.exports = {
       linkedin: 'al-piepho-fw-sw-engineer'
     },
   },
+  pathPrefix: `my-blog`,
   plugins: [
     {
       resolve: `gatsby-source-filesystem`,
