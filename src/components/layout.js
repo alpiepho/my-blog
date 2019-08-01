@@ -3,6 +3,17 @@ import { Link } from "gatsby"
 
 import { rhythm, scale } from "../utils/typography"
 
+// TODO: add the following to a layout.css
+// body.light-mode {
+//   background-color: #fff;
+//   color: #333;
+//   transition: background-color 0.3s ease;
+// }
+// body.dark-mode {
+//   background-color: #1a1919;
+//   color: #999;
+// }
+
 class Layout extends React.Component {
   render() {
     const { location, title, children } = this.props
