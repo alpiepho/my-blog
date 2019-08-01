@@ -1,18 +1,8 @@
 import React from "react"
 import { Link } from "gatsby"
-
 import { rhythm, scale } from "../utils/typography"
-
-// TODO: add the following to a layout.css
-// body.light-mode {
-//   background-color: #fff;
-//   color: #333;
-//   transition: background-color 0.3s ease;
-// }
-// body.dark-mode {
-//   background-color: #1a1919;
-//   color: #999;
-// }
+import DarkToggle from "../components/darktoggle"
+import "./layout.scss"
 
 class Layout extends React.Component {
   render() {
@@ -27,6 +17,8 @@ class Layout extends React.Component {
             ...scale(1.5),
             marginBottom: rhythm(1.5),
             marginTop: 0,
+            display: `flex`,
+            alignItems: `center`
           }}
         >
           <Link
@@ -39,6 +31,13 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
+          <div
+            style={{
+              ...scale(0.1),
+              marginLeft: 20
+            }}>
+            <DarkToggle />
+          </div>
         </h1>
       )
     } else {
@@ -47,6 +46,8 @@ class Layout extends React.Component {
           style={{
             fontFamily: `Montserrat, sans-serif`,
             marginTop: 0,
+            display: `flex`,
+            alignItems: `center`
           }}
         >
           <Link
@@ -59,6 +60,13 @@ class Layout extends React.Component {
           >
             {title}
           </Link>
+          <div
+            style={{
+              ...scale(0.1),
+              marginLeft: 20
+            }}>
+            <DarkToggle />
+          </div>
         </h3>
       )
     }

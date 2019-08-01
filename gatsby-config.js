@@ -101,7 +101,8 @@ module.exports = {
           }
         }]
       }
-    },  
+    },
+    `gatsby-plugin-sass`,
     'gatsby-plugin-use-dark-mode'
   ],
 }
