@@ -48,6 +48,6 @@ git push
 
 Then sit back and enjoy :smiley:  
 
-(Bummer, I don't think emojis work here.  Maybe that's my next blog entry)
+
 
 
