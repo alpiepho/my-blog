@@ -6,7 +6,8 @@ module.exports = {
     siteUrl: `https://alpiepho.github.io/my-blog/`,
     social: {
       twitter: `apiepho1`,
-      linkedin: 'al-piepho-fw-sw-engineer'
+      linkedin: 'al-piepho-fw-sw-engineer',
+      portfolio: 'https://alpiepho.github.io/project-portfolio2'
     },
   },
   pathPrefix: `my-blog`,

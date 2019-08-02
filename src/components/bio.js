@@ -27,6 +27,7 @@ const Bio = () => {
           social {
             twitter
             linkedin
+            portfolio
           }
         }
       }
@@ -56,10 +57,14 @@ const Bio = () => {
       />
       <p>
         Written by <strong>{author}</strong> who loves to learn and build useful things.
-        {` `}
+        You can contact him on {` `}
         <a href={`https://www.linkedin.com/in/${social.linkedin}`}>
-          You can contact him on LinkedIn
+          LinkedIn
         </a>
+        , or visit his {` `}
+        <a href={`${social.portfolio}`}>
+          portfolio
+        </a>.
       </p>
     </div>
   )
