@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 04 Aug 2019 14:23:47 GMT</lastBuildDate><item><title><![CDATA[Site Evalutation Idea]]></title><description><![CDATA[As I have tried to learn more about developing websites, I have gathered a number of tools that I use to inspect sites.  I was looking at a…]]></description><link>https://alpiepho.github.io/my-blog/site-evaluation/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/site-evaluation/</guid><pubDate>Sun, 04 Aug 2019 00:42:20 GMT</pubDate><content:encoded>&lt;p&gt;As I have tried to learn more about developing websites, I have gathered a number of tools that I use to inspect sites.  I was looking at a site for a company I was interested in interviewing with and noticed some issues with their site.  Then I had the idea…&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Mon, 05 Aug 2019 21:54:22 GMT</lastBuildDate><item><title><![CDATA[Site Evalutation Idea]]></title><description><![CDATA[As I have tried to learn more about developing websites, I have gathered a number of tools that I use to inspect sites.  I was looking at a…]]></description><link>https://alpiepho.github.io/my-blog/site-evaluation/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/site-evaluation/</guid><pubDate>Sun, 04 Aug 2019 00:42:20 GMT</pubDate><content:encoded>&lt;p&gt;As I have tried to learn more about developing websites, I have gathered a number of tools that I use to inspect sites.  I was looking at a site for a company I was interested in interviewing with and noticed some issues with their site.  Then I had the idea…&lt;/p&gt;
 &lt;p&gt;“I could build a quick report about their site.  Might allow me to stand out”.  &lt;/p&gt;
 &lt;p&gt;So I did that.&lt;/p&gt;
 &lt;p&gt;First I built a &lt;a href=&quot;https://alpiepho.github.io/site-evaluation-template/&quot;&gt;template&lt;/a&gt;.&lt;/p&gt;
@@ -56,6 +56,34 @@
 /my-blog/static/52c76732875fd5da5a4f925cdf058a46/b9e4f/screenshot2.png 590w,
 /my-blog/static/52c76732875fd5da5a4f925cdf058a46/b582c/screenshot2.png 642w&quot;
         sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;The full list can be found &lt;a href=&quot;https://alpiepho.github.io/site-evaluation-all/&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 530px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/my-blog/static/52e4f9c2ba485dde28376462d7082693/3e6fd/screenshot3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 58.490566037735846%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAAAsSAAALEgHS3X78AAABxElEQVQoz51RaW/aQBDN//9DVdUvbdMEoXAEiO/bxuBgGwI+sI3N6+zggJoPUduVRnPtvnnz9u58PuNfz/sb4T/anWhUTYd7LcfYKeHENSZuiUejwNAq8Kuv+2mD70qOvOr+AP14GLCoCVDNMDRzzL0CAz3HTyXDD7JHioXpqyPnZdUSWIe27dB1FxPxleH/rPyZFMzwkGX48vUbps9zPAyGUFQd9w8DKJqO2ULCdHapG6YNWVExGk/wNBpj+DTCeDKldzPs3t5uK9dNg8WLxA1xwXE9fmhaNizbZv9MoL4fQKUh73dn8wXHwu/3+xvgRYf2Sr05nbjWNCecKD61La9zPB5RVRX3RL0hIm3fy4sCh0PWM6wb6IbJ018kGZKsQNMNYmZxXZJljoNgySzjOEa4WsGnfB1FiJMEYbjC62ZzARTT0nSLJEm5maYp0u0Wu90OW/JxnKAoy7/6GAYU1JdhCM/3sV5HiKLXax4sl9jQZMGIWVLuksaCnef5pLcL23G4LvTuV67pExRuarS2ZTu8tqJqfMkwTTILNtWDHkjTdZLDIDCXzSFzPe/GUEwRQB5pJNgIFgJMaOb0sehXVf3pyr8BaM2IrkglpJ0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;site eval portfolio2&quot;
+        title=&quot;site eval portfolio2&quot;
+        src=&quot;/my-blog/static/52e4f9c2ba485dde28376462d7082693/3e6fd/screenshot3.png&quot;
+        srcset=&quot;/my-blog/static/52e4f9c2ba485dde28376462d7082693/cf440/screenshot3.png 148w,
+/my-blog/static/52e4f9c2ba485dde28376462d7082693/d2d38/screenshot3.png 295w,
+/my-blog/static/52e4f9c2ba485dde28376462d7082693/3e6fd/screenshot3.png 530w&quot;
+        sizes=&quot;(max-width: 530px) 100vw, 530px&quot;
       /&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
