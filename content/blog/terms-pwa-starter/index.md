@@ -11,7 +11,7 @@ I thought the book was really good, and i like the company...might even be worth
 
 ![terms pwa starter](./screenshot-terms-pwa-starter.png)
 
-Then I built a PWA for the [20 Patterns book](https://alpiepho.github.io/terms-pwa-starter).  The starter itself, took 2-3 days total.  Once the starter was in place, the 20 Pattens PWA was 1/2 a day!
+Then I built a PWA for the [20 Patterns book](https://alpiepho.github.io/gitprime-patterns).  The starter itself, took 2-3 days total.  Once the starter was in place, the 20 Pattens PWA was 1/2 a day!
 
 ![gitprime-patterns](./screenshot-gitprime-patterns.png)
 
