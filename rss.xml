@@ -1,4 +1,43 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Sun, 18 Aug 2019 22:58:00 GMT</lastBuildDate><item><title><![CDATA[Terms PWA Starter]]></title><description><![CDATA[I just remembered that I didn’t blog about my first PR to the Gatsby.js project…YEAH FO ME!  I even got a hat. So I had another idea to…]]></description><link>https://alpiepho.github.io/my-blog/terms-pwa-starter/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/terms-pwa-starter/</guid><pubDate>Sun, 18 Aug 2019 22:31:44 GMT</pubDate><content:encoded>&lt;p&gt;I just remembered that I didn’t blog about my first PR to the Gatsby.js project…YEAH FO ME!  I even got a hat.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 27 Aug 2019 23:49:46 GMT</lastBuildDate><item><title><![CDATA[Simple Score Volleyball PWA]]></title><description><![CDATA[This took longer than expected, but I just got a MVP for my volleyball app, Simple Score Volleyball PWA.  Not a React Native app, but a PWA…]]></description><link>https://alpiepho.github.io/my-blog/simple-score-volleyball-pwa/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/simple-score-volleyball-pwa/</guid><pubDate>Tue, 27 Aug 2019 23:39:01 GMT</pubDate><content:encoded>&lt;p&gt;This took longer than expected, but I just got a MVP for my volleyball app, &lt;a href=&quot;https://github.com/alpiepho/simple-score-volleyball-pwa/&quot;&gt;Simple Score Volleyball PWA&lt;/a&gt;.  Not a React Native app, but a PWA. (and it does well with Lighhouse.)&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/my-blog/static/d0c374adcc4808244119ffb25b568eeb/8fcfd/lighthouse.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 64.24581005586593%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAAAsSAAALEgHS3X78AAADSUlEQVQ4y02T22ubZRzHcyuiDpIat9kc3kOS931zjkm3btbYdmtxzcrQrOt51QqbKEJTrDLp3DoRvPRGvXPdxS68kG05tMmbxNJZ7VZm/4QiiNh1PYDaTpCPT96K7AdffvwenufD7/TYujq76eg+xcnXMrx6ootoIoUWjGCEoujBKLIaQHpC8hOyzhQ/voBBTLxLtrRi+3F5mYpZpVgqCW9iVmuUKybz5QrVep36wgLVWp2yWaM4b3InnydfLFIolijNzTMn7hXmq/yw9BP37t3Hdv2b6/S9nmW4f4ChvnMMCg2d67f88OAQq6urNGx2dpbsG1nOj47Slz1raVC8GRkeEednyWQy9PT0YEslUzznPIhTUmhyey05hFyawTPPHuDTmWsW8OKFixzwN9GWSeNKyRzWXDQnJZqDbjwtEv5AgJBoke3rL7+ieukj8sMDFN8aozg+Rn5slIV336F68ya3RXkNm8xNoqYCRI/HiXUkMVIh4p0pwkeihF6J0dHZTu/pXmyLomeMn+fPiM5e21Eet7/MXmuSvajObrXC3Z/3S87lcrzQ5MSv+tBVPwGfj2g4jCpiVVbxCR8QWdrKhQK7IwP8FtZYP/oS68dSrB9JsBE1eHjnNpWlpf8yzGF32FFkmYCqCGBDAqT5LZDH47FkM0VJj98c4XcB3MyeYfvtMTaOt/AoFuRRMc/c4uL/GTocDhRFwe1y4w3IaF1RvD5pP/Z68UrSPvCf/iwPFRc76WPsdHewJWDbfi9bIsP6/RULODExgd1ut4Aetxs9YpDqbUUL6yL2CKAbd/NBARR7tHljlrXLl1m7coVfZq6yNjMj/Ay/rqxQFrvYsKmpKZxOJ5LIolGarumEjZAoVxMZNuORg+iJ09iqYqlLtQL1JZNb899h3q2Qr9yiWMtj1irUGkMTdmn6Y1TRs1gsJgah4vaKnile8ZsMIuGQ+C0RtPhJMZSyyRc3/ubC9Ca5zzb54PNt3r+2xXtXd1h+sMHigrk/lA8nOXT4ELquW/2SVRlFU4gn4kQiEWRZQva+iK1QNGkfh6cSf+A+sYv/1C7Pt/3F08k9vi1t82Dlews4/ck0PZke0um0VbKkCKAiETQMgqGQJcMf4F9bdkKSTe/XQgAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;lighthouse&quot;
+        title=&quot;lighthouse&quot;
+        src=&quot;/my-blog/static/d0c374adcc4808244119ffb25b568eeb/b9e4f/lighthouse.png&quot;
+        srcset=&quot;/my-blog/static/d0c374adcc4808244119ffb25b568eeb/cf440/lighthouse.png 148w,
+/my-blog/static/d0c374adcc4808244119ffb25b568eeb/d2d38/lighthouse.png 295w,
+/my-blog/static/d0c374adcc4808244119ffb25b568eeb/b9e4f/lighthouse.png 590w,
+/my-blog/static/d0c374adcc4808244119ffb25b568eeb/f9b6a/lighthouse.png 885w,
+/my-blog/static/d0c374adcc4808244119ffb25b568eeb/8fcfd/lighthouse.png 1074w&quot;
+        sizes=&quot;(max-width: 590px) 100vw, 590px&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;I started with my “any-base-counter” Gatsby app, and built a multi-screen application that lets someone quickly score a volleyball match, and periodically, send the current state as a text
+to a pre-set list of phone number.&lt;/p&gt;
+&lt;h2&gt;What did I learn&lt;/h2&gt;
+&lt;p&gt;Using Material UI is tricky.  Nice, but if you want to use normal CSS you end up fighting things.&lt;/p&gt;
+&lt;p&gt;Transfering state between pages is ugly.  Not sure if it was a good
+idea or not, but I ended up saving the data to local storage, them
+picking that up in the next page…yes global variables!&lt;/p&gt;
+&lt;p&gt;This was my first time working with a Netlify Function/Lambda.  Simple but nice to know how to do it.&lt;/p&gt;
+&lt;p&gt;Also my first time working with a service like Twilio.  Now I understand how easy it is to generate robo-calls :(&lt;/p&gt;
+&lt;p&gt;Another fun project.  I’m a little nervous releasing this to my daughters team/parents.  Hope they are gentle…&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Terms PWA Starter]]></title><description><![CDATA[I just remembered that I didn’t blog about my first PR to the Gatsby.js project…YEAH FO ME!  I even got a hat. So I had another idea to…]]></description><link>https://alpiepho.github.io/my-blog/terms-pwa-starter/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/terms-pwa-starter/</guid><pubDate>Sun, 18 Aug 2019 22:31:44 GMT</pubDate><content:encoded>&lt;p&gt;I just remembered that I didn’t blog about my first PR to the Gatsby.js project…YEAH FO ME!  I even got a hat.&lt;/p&gt;
 &lt;p&gt;So I had another idea to build a Gatsby Starter.  Recently I saw an e-book (one of those that require signing up os they get your email), Called “20 Patterns to Watch for in Your Engineering Team” from a company GitPrime.  GitPrime builds tools to evaluate git history and pick up trends etc.&lt;/p&gt;
 &lt;p&gt;I thought the book was really good, and i like the company…might even be worth trying to work there.  In the past, I have build list-like PWA apps for other companies, and this seemed like another place to build one.  I took this a step further, and built a real Gatsby Starter &lt;a href=&quot;https://alpiepho.github.io/terms-pwa-starter/&quot;&gt;Terms PWA Starter&lt;/a&gt;:&lt;/p&gt;
 &lt;p&gt;&lt;span
