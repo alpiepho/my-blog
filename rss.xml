@@ -1,4 +1,25 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 27 Aug 2019 23:49:46 GMT</lastBuildDate><item><title><![CDATA[Simple Score Volleyball PWA]]></title><description><![CDATA[This took longer than expected, but I just got a MVP for my volleyball app, Simple Score Volleyball PWA.  Not a React Native app, but a PWA…]]></description><link>https://alpiepho.github.io/my-blog/simple-score-volleyball-pwa/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/simple-score-volleyball-pwa/</guid><pubDate>Tue, 27 Aug 2019 23:39:01 GMT</pubDate><content:encoded>&lt;p&gt;This took longer than expected, but I just got a MVP for my volleyball app, &lt;a href=&quot;https://github.com/alpiepho/simple-score-volleyball-pwa/&quot;&gt;Simple Score Volleyball PWA&lt;/a&gt;.  Not a React Native app, but a PWA. (and it does well with Lighhouse.)&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Mon, 02 Sep 2019 12:57:01 GMT</lastBuildDate><item><title><![CDATA[Fixing Github Sercurity Warnings]]></title><description><![CDATA[I hate dots on icons. I have a lot of repos on GitHub.  Some are kind of stale.  GitHub 
+has started scanning them for npm sercurity…]]></description><link>https://alpiepho.github.io/my-blog/fix-githunb-security-vulerability/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/fix-githunb-security-vulerability/</guid><pubDate>Mon, 02 Sep 2019 12:29:55 GMT</pubDate><content:encoded>&lt;p&gt;I hate dots on icons.&lt;/p&gt;
+&lt;p&gt;I have a lot of repos on GitHub.  Some are kind of stale.  GitHub
+has started scanning them for npm sercurity vulnerabilities.  That
+is a good thing.  &lt;/p&gt;
+&lt;p&gt;The bad thing is the packages that are flaged are usually sub
+dependencies of other packages…not things directly in the package.json file.&lt;/p&gt;
+&lt;p&gt;My first thought was, “I’m not really dependent on the features
+of packaages X (say gastby), I’ll just upgrade everything”.  Bad idea! After using:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;npm outdate  # see what is out of date
+yarn upgrade # upgrade all the packages&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;I would sometimes get bad builds, or worse, run time errors that
+didn’t show up until the app was deployed.  Reverting is ugly!&lt;/p&gt;
+&lt;p&gt;So my workaround is to add the package that has been flagged
+directly in the package.json:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;yarn add eslint-utils&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;And add a Note to the end of the README.md so the change is more visable.&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;## Updates for GitHub security issues
+
+- added eslint-utils directly to package.json (is a deep dependency)&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;This works and limits the impact of package changes on my working application, but still seems like a hack.  I hope there are not too many packages that need to be added over time.&lt;/p&gt;
+&lt;p&gt;Maybe git hub should have an option to opt-in for something similar?&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Simple Score Volleyball PWA]]></title><description><![CDATA[This took longer than expected, but I just got a MVP for my volleyball app, Simple Score Volleyball PWA.  Not a React Native app, but a PWA…]]></description><link>https://alpiepho.github.io/my-blog/simple-score-volleyball-pwa/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/simple-score-volleyball-pwa/</guid><pubDate>Tue, 27 Aug 2019 23:39:01 GMT</pubDate><content:encoded>&lt;p&gt;This took longer than expected, but I just got a MVP for my volleyball app, &lt;a href=&quot;https://github.com/alpiepho/simple-score-volleyball-pwa/&quot;&gt;Simple Score Volleyball PWA&lt;/a&gt;.  Not a React Native app, but a PWA. (and it does well with Lighhouse.)&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto;  max-width: 590px;&quot;
