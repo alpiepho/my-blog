@@ -19,6 +19,7 @@ function SEO({ description, lang, meta, title }) {
             title
             description
             author
+            favicon
           }
         }
       }
@@ -34,6 +35,9 @@ function SEO({ description, lang, meta, title }) {
       }}
       title={title}
       titleTemplate={`%s | ${site.siteMetadata.title}`}
+      link={[
+        { rel: 'shortcut icon', type: 'image/x-icon', href: `${site.siteMetadata.favicon}` },
+      ]}
       meta={[
         {
           name: `description`,

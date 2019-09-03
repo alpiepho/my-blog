@@ -9,6 +9,7 @@ module.exports = {
       linkedin: 'al-piepho-fw-sw-engineer',
       portfolio: 'https://alpiepho.github.io/project-portfolio2'
     },
+    favicon: './images/favicon.ico',
   },
   pathPrefix: `my-blog`,
   plugins: [
