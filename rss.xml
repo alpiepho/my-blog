@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 03 Sep 2019 18:10:35 GMT</lastBuildDate><item><title><![CDATA[Running PHP Locally (on Mac)]]></title><description><![CDATA[A recent job posting and a recent dive into Wordpress has ‘inspired’
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[My Blog]]></title><description><![CDATA[My first blog.]]></description><link>https://alpiepho.github.io/my-blog</link><generator>RSS for Node</generator><lastBuildDate>Tue, 03 Sep 2019 18:39:50 GMT</lastBuildDate><item><title><![CDATA[Running PHP Locally (on Mac)]]></title><description><![CDATA[A recent job posting and a recent dive into Wordpress has ‘inspired’
 me to look at PHP. I started a course on LinkedIn Learning ( PHP with…]]></description><link>https://alpiepho.github.io/my-blog/run-php-local/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/run-php-local/</guid><pubDate>Tue, 03 Sep 2019 18:01:42 GMT</pubDate><content:encoded>&lt;p&gt;A recent job posting and a recent dive into Wordpress has ‘inspired’
 me to look at PHP.&lt;/p&gt;
 &lt;p&gt;I started a course on LinkedIn Learning ( &lt;a href=&quot;https://www.linkedin.com/learning/php-with-mysql-essential-training-1-the-basics&quot;&gt;PHP with MySql Essential Training 1: The Basics&lt;/a&gt; ).  This really starts from the beginning.&lt;/p&gt;
@@ -9,7 +9,12 @@ on my Mac (so hard to clean it up).  I found a YourTube video (sorry for missing
 php -S 127.0.0.1:8000 index.php &lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
 &lt;p&gt;Then open a browser to localhost:8000&lt;/p&gt;
 &lt;p&gt;It works on a simple hello world application.  With any luck it
-will work of more complicated applications :)&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Fixing Github Sercurity Warnings]]></title><description><![CDATA[I hate dots on icons. I have a lot of repos on GitHub.  Some are kind of stale.  GitHub 
+will work of more complicated applications :)&lt;/p&gt;
+&lt;h3&gt;Additional Notes&lt;/h3&gt;
+&lt;p&gt;For the LinkedIn course, I had to cd to the level where public
+and private folders are (in Chapter 4, this was globe_bank).  Then
+use URL directly the staff index.php:&lt;/p&gt;
+&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;http://localhost:8000/public/staff/index.php&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content:encoded></item><item><title><![CDATA[Fixing Github Sercurity Warnings]]></title><description><![CDATA[I hate dots on icons. I have a lot of repos on GitHub.  Some are kind of stale.  GitHub 
 has started scanning them for npm sercurity…]]></description><link>https://alpiepho.github.io/my-blog/fix-githunb-security-vulerability/</link><guid isPermaLink="false">https://alpiepho.github.io/my-blog/fix-githunb-security-vulerability/</guid><pubDate>Mon, 02 Sep 2019 12:29:55 GMT</pubDate><content:encoded>&lt;p&gt;I hate dots on icons.&lt;/p&gt;
 &lt;p&gt;I have a lot of repos on GitHub.  Some are kind of stale.  GitHub
 has started scanning them for npm sercurity vulnerabilities.  That
