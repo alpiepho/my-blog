@@ -21,3 +21,12 @@ Then open a browser to localhost:8000
 It works on a simple hello world application.  With any luck it
 will work of more complicated applications :)
 
+### Additional Notes
+
+For the LinkedIn course, I had to cd to the level where public
+and private folders are (in Chapter 4, this was globe_bank).  Then
+use URL directly the staff index.php:
+```
+http://localhost:8000/public/staff/index.php
+```
+
